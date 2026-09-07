@@ -1,3 +1,4 @@
 origin : représente l'adresse par défaut du serveur distant (mais on peut lui donner un autre nom) 
 git push -u origin main : -u (ou --set-upstream) : C'est l'option la plus importante ici. Elle crée une liaison permanente (un suivi) entre votre branche locale (main) et la branche distante. Grâce à ce paramètre, vous n'aurez plus besoin de taper toute la commande les fois suivantes : un simple git push ou git pull suffira, car Git saura exactement vers où envoyer ou récupérer le code.
 
+C'est la fin des conflicts!
